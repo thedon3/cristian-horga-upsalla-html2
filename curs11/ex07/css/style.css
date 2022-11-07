@@ -1,11 +1,11 @@
-/* can't touch this 🔨 */
-body{
-  margin: 0; 
+/* please do not modify this code */
+body {
+  margin: 0;
   padding: 0;
 }
 
 .grid-container {
-  width: 100vw; 
+  width: 100vw;
   height: 100vh;
 }
 
@@ -30,5 +30,4 @@ body{
 .grid-item-4 {
   background-color: lightsalmon;
 }
-/* can't touch this 🔨 */
-
+/* please do not modify this code */
