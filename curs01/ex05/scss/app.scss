@@ -1,0 +1,31 @@
+ul {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      color: red;
+    }
+
+    &:active {
+      color: purple;
+    }
+
+    &:visited {
+      color: green;
+    }
+  }
+}
+
+.para {
+  padding: 10px 20px;
+}
+
+.para-short {
+  width: 50%;
+  margin: {
+    top: 0;
+    bottom: 0;
+    left: auto;
+    right: auto;
+  }
+}

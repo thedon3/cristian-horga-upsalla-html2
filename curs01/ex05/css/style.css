@@ -1,0 +1,26 @@
+ul a {
+  text-decoration: none;
+}
+ul a:hover {
+  color: red;
+}
+ul a:active {
+  color: purple;
+}
+ul a:visited {
+  color: green;
+}
+
+.para {
+  padding: 10px 20px;
+}
+
+.para-short {
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
